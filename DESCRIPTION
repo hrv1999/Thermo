@@ -1,0 +1,10 @@
+Name: thermo
+Version: 1.0
+Date: 2022-01-08
+Author: Maharaj Swami
+Maintainer: Maharaj Swami
+Title: Octave Thermodynamic property calculation package
+Description: This package helps to calculate partial fugacity coefficients, capital phi k, vapor pressures and activity coefficients based on Margules 3 suffix model.
+Categories: engineering calculations
+Depends: octave (>= 4.2)
+License: GPL-3.0-or-later
